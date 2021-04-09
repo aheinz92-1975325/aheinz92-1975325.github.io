@@ -1,0 +1,33 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color:Brown;
+  text-align:center
+}
+
+h2 {
+  color:Brown;
+}
+
+p1 {
+  background-color:Beige;
+  font-family:verdana
+}
+
+p2 {
+  background-color:Beige;
+  font-family:georgia;
+  text-align:right
+}
+
+.box1 {
+  border-style:dotted;
+  border-radius:25px;
+  padding:30px;
+  font-family:arial;
+  text-align:center;
+  list-style-position:inside;
+  color:blue
+}
